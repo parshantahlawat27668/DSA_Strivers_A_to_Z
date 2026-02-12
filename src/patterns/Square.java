@@ -2,8 +2,8 @@ package patterns;
 
 import java.util.Scanner;
 
-public class square {
-    static void main() {
+public class Square {
+   public  static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter size of the square");
         int size = sc.nextInt();

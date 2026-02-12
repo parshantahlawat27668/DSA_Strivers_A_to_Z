@@ -2,7 +2,7 @@ package patterns;
 
 import java.util.Scanner;
 
-public class triangle {
+public class Triangle {
    public  static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter height of the triangle");

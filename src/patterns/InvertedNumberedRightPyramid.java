@@ -3,7 +3,7 @@ package patterns;
 import java.util.Scanner;
 
 public class InvertedNumberedRightPyramid {
-    static void main(String[] args) {
+   public  static void main(String[] args) {
         Scanner sc  = new Scanner(System.in);
         System.out.println("Enter height of the pyramid");
         int height = sc.nextInt();
