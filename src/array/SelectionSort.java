@@ -36,3 +36,11 @@ public class SelectionSort {
         print(arr);
     }
 }
+
+
+//Algorithm
+
+
+
+//Best case: O(n^2);
+//Worst case: O(n^2);

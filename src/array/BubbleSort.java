@@ -50,3 +50,8 @@ public class BubbleSort {
     }
 }
 
+
+//Algorithm
+
+//Best case: O(n);
+//Worst case: O(n^2);
