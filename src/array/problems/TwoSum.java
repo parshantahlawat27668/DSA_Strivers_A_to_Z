@@ -1,4 +1,4 @@
-package array;
+package array.problems;
 
 public class TwoSum {
     static void main(String[] args) {

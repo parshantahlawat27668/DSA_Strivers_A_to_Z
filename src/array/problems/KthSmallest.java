@@ -1,4 +1,4 @@
-package array;
+package array.problems;
 
 public class KthSmallest {
     public static int basicApproach(int[] arr,int k){
